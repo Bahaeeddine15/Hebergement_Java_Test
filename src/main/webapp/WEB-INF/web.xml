@@ -9,7 +9,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>faces</servlet-name>
-        <url-pattern>/*.xhtml</url-pattern>
+        <url-pattern>/*</url-pattern>
     </servlet-mapping>
     <context-param>
         <param-name>com.sun.faces.enableCDIResolver</param-name>
